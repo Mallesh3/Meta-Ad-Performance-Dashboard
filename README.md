@@ -2,9 +2,7 @@
 
 > **A comprehensive Power BI dashboard analyzing Facebook & Instagram ad performance.**  
 > This project delivers actionable insights into ad reach, engagement, conversions, and budget utilization — empowering data-driven marketing optimization.
-
 ---
-
 ## 🚀 Project Overview
 
 **Objective:**  
@@ -14,7 +12,6 @@ This dashboard helps marketing teams to:
 - Identify the **best-performing platforms and ad types**.  
 - Track **ROI and conversion funnel performance**.  
 - Understand **audience demographics, engagement patterns, and timing trends**.  
-
 ---
 
 ## 📈 KPI Summary
@@ -111,7 +108,7 @@ This analysis provides a data-driven roadmap for improving ad ROI, audience rete
 ---
 
 ## 🖼️ Dashboard Preview
- example:![Dash board preview](https://github.com/Mallesh3/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%20of%20Dashboard.png) 
+![Dash board preview](https://github.com/Mallesh3/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%20of%20Dashboard.png) 
 
 
 ---

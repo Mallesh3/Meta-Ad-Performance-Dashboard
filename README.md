@@ -112,7 +112,7 @@ This analysis provides a data-driven roadmap for improving ad ROI, audience rete
 
 ## 🖼️ Dashboard Preview
 
-*(Add screenshots of your Power BI dashboard here)*  
+*(https://github.com/Mallesh3/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%20of%20Dashboard.png)*  
 
 
 ---

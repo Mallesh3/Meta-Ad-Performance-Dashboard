@@ -111,7 +111,6 @@ This analysis provides a data-driven roadmap for improving ad ROI, audience rete
 ---
 
 ## 🖼️ Dashboard Preview
-  show what the dashboard looks like -![Alt text](https://github://github.com/username/repo/assets/image.png).
  example:![Dash board preview](https://github.com/Mallesh3/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%20of%20Dashboard.png) 
 
 
